@@ -30,5 +30,5 @@ When specifications need to be compiled for a project, the software will ask que
 
 ### Engineer Inputs
 
-Not sure yet if I want the engineer to answer question related to form data inside of the spec documents. Probably not all information, but a portion of the form data can be asked, and filled in prior to compiling.
+Not sure yet if I want the engineer to answer questions related to form data inside of the spec documents. Probably not all information, but a portion of the form data can be asked, and filled in prior to compiling.
 
